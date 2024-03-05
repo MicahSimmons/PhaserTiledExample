@@ -1,0 +1,37 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "platform_thing.tmx",
+    "expandedProjectPaths": [
+    ],
+    "fileStates": {
+        "platform_thing.tmx": {
+            "scale": 1.3121875,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 475.1607525601333,
+                "y": 298.73779471302686
+            }
+        },
+        "platform_thing.tmx#Platforms": {
+            "scaleInDock": 1
+        },
+        "platform_thing.tmx#SpawnMarkers": {
+            "scaleInDock": 1
+        }
+    },
+    "last.exportedFilePath": "/Users/micahsimmons/Desktop/SRJC Spring 2024/CS42/tiled_example/maps",
+    "last.imagePath": "/Users/micahsimmons/Desktop/SRJC Spring 2024/CS42/tiled_example/maps",
+    "map.lastUsedExportFilter": "JSON map files (*.tmj *.json)",
+    "map.lastUsedFormat": "tmx",
+    "openFiles": [
+        "platform_thing.tmx"
+    ],
+    "project": "platform_test.tiled-project",
+    "recentFiles": [
+        "platform_thing.tmx"
+    ],
+    "tileset.embedInMap": true
+}
